@@ -1,0 +1,17 @@
+*{
+  margin: 20px;
+}
+form{
+  width:30%;
+}
+.login-form{
+  display: flex;
+  margin: 100px auto;
+  vertical-align: center;
+  flex-direction: column;
+  border: 1px solid gray;
+}
+h2{
+  align-self: center;
+
+}
